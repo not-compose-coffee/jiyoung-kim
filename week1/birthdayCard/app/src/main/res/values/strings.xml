@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Birthday Card</string>
+    <string name="birthday_title">생일축하해!</string>
+    <string name="birthday_from">지영이가</string>
+</resources>
